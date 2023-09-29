@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Content/Maps/Assets_v1/superhero/LaserEyes.uasset",
+				"C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Content/Maps/Assets_v1/superhero_fx/superhero_fx_beam.uasset",
+				"C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Content/Maps/Assets_v1/superhero_fx/superhero_fx_beam_spritesheet_Sprite.uasset",
+				"C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Content/Maps/Assets_v1/superhero_fx/superhero_fx_beam_1.uasset",
+				"C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Content/Maps/Assets_v1/superhero_fx/beam_flip.uasset",
 				"C:/Unreal Engine/freshersjam/freshersjam/FJam 5.2/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Unreal Engine/freshersjam/freshersjam/FJam 5.2/Content/Map1.umap",
 				"C:/Unreal Engine/freshersjam/freshersjam/FJam 5.2/Content/Blueprints/Hero.uasset",

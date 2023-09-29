@@ -1333,3 +1333,754 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.09.29-20.35.07:566][147]LogStatusBar: Looking status bar with open content browser drawer...
 [2023.09.29-20.35.07:567][147]LogStatusBar: Using status bar: LevelEditor.StatusBar to dock content browser
 [2023.09.29-20.35.07:585][147]LogViewport: Scene viewport resized to 1526x580, mode Windowed.
+[2023.09.29-20.44.19:614][269]LogDerivedDataCache: C:/Users/kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.132 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1391 files in 2226 folders with total size 69 MiB.
+[2023.09.29-20.44.37:670][422]LogTexture: Display: Building textures: /Game/Maps/Assets_v1/superhero/superhero_shades_12.superhero_shades_12 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2023.09.29-20.44.37:671][422]LogTexture: Display: Building textures: /Game/Maps/Assets_v1/superhero/superhero_shades_13.superhero_shades_13 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2023.09.29-20.44.37:672][422]LogTexture: Display: Building textures: /Game/Maps/Assets_v1/superhero/superhero_shades_14.superhero_shades_14 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2023.09.29-20.44.37:673][422]LogTexture: Display: Building textures: /Game/Maps/Assets_v1/superhero/superhero_shades_15.superhero_shades_15 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2023.09.29-20.45.45:490][519]LogContentBrowser: Deferred new asset file creation: superhero_shades
+[2023.09.29-20.45.45:495][519]LogContentBrowser: Creating deferred item: superhero_shades
+[2023.09.29-20.45.45:522][520]LogContentBrowser: Renaming the item being created (Deferred Item: superhero_shades).
+[2023.09.29-20.46.16:484][231]LogContentBrowser: Attempting asset rename: superhero_shades -> LaserEyes
+[2023.09.29-20.46.16:485][231]LogContentBrowser: End creating deferred item superhero_shades
+[2023.09.29-20.46.27:999][601]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Maps/Assets_v1/superhero/LaserEyes.LaserEyes
+[2023.09.29-20.46.27:999][601]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.29-20.46.28:001][601]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.29-20.46.28:083][601]LogViewport: Scene viewport resized to 1526x786, mode Windowed.
+[2023.09.29-20.46.28:092][601]LogSlate: Took 0.004043 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.09.29-20.46.28:128][602]LogViewport: Scene viewport resized to 1526x768, mode Windowed.
+[2023.09.29-20.46.28:163][603]LogViewport: Scene viewport resized to 1526x761, mode Windowed.
+[2023.09.29-20.53.59:496][892]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.29-20.53.59:531][892]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Assets_v1/superhero/LaserEyes" FILE="C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Content/Maps/Assets_v1/superhero/LaserEyes.uasset" SILENT=true
+[2023.09.29-20.53.59:533][892]LogSavePackage: Moving output files for package: /Game/Maps/Assets_v1/superhero/LaserEyes
+[2023.09.29-20.53.59:533][892]LogSavePackage: Moving 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/LaserEyes9A559862417514FD8F08CC97B33D25F9.tmp' to 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Content/Maps/Assets_v1/superhero/LaserEyes.uasset'
+[2023.09.29-20.53.59:540][892]LogFileHelpers: InternalPromptForCheckoutAndSave took 44 ms
+[2023.09.29-20.53.59:544][892]AssetCheck: New page: Asset Save: LaserEyes
+[2023.09.29-20.53.59:544][892]LogContentValidation: Display: Validating /Script/Paper2D.PaperFlipbook /Game/Maps/Assets_v1/superhero/LaserEyes.LaserEyes
+[2023.09.29-20.54.03:735][385]LogSlate: Window 'LaserEyes' being destroyed
+[2023.09.29-20.54.03:741][385]LogSlate: Window 'LaserEyes' being destroyed
+[2023.09.29-20.54.03:744][385]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.09.29-20.54.03:744][385]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.29-20.54.25:107][941]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Maps/Assets_v1/superhero/LaserEyes.LaserEyes
+[2023.09.29-20.54.25:108][941]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.29-20.54.25:108][941]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.29-20.54.25:180][941]LogViewport: Scene viewport resized to 1526x790, mode Windowed.
+[2023.09.29-20.54.25:225][942]LogViewport: Scene viewport resized to 1526x773, mode Windowed.
+[2023.09.29-20.54.25:255][943]LogViewport: Scene viewport resized to 1526x761, mode Windowed.
+[2023.09.29-20.55.09:148][110]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.29-20.55.09:178][110]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Assets_v1/superhero/LaserEyes" FILE="C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Content/Maps/Assets_v1/superhero/LaserEyes.uasset" SILENT=true
+[2023.09.29-20.55.09:180][110]LogSavePackage: Moving output files for package: /Game/Maps/Assets_v1/superhero/LaserEyes
+[2023.09.29-20.55.09:180][110]LogSavePackage: Moving 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/LaserEyesE1E8978244BC4997BB72A3BC8F3040C5.tmp' to 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Content/Maps/Assets_v1/superhero/LaserEyes.uasset'
+[2023.09.29-20.55.09:187][110]LogFileHelpers: InternalPromptForCheckoutAndSave took 38 ms (total: 83 ms)
+[2023.09.29-20.55.09:190][110]AssetCheck: New page: Asset Save: LaserEyes
+[2023.09.29-20.55.09:190][110]LogContentValidation: Display: Validating /Script/Paper2D.PaperFlipbook /Game/Maps/Assets_v1/superhero/LaserEyes.LaserEyes
+[2023.09.29-20.55.18:239][179]LogSlate: Window 'LaserEyes' being destroyed
+[2023.09.29-20.55.18:244][179]LogSlate: Window 'LaserEyes' being destroyed
+[2023.09.29-20.55.18:248][179]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.09.29-20.55.18:249][179]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.29-20.55.26:387][142]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/Maps/Assets_v1/superhero/LaserEyes.LaserEyes
+[2023.09.29-20.55.26:423][142]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/Maps/Assets_v1/superhero/LaserEyes.LaserEyes
+[2023.09.29-20.55.26:423][142]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/Maps/Assets_v1/superhero/LaserEyes.LaserEyes as actor: PaperFlipbookActor /Game/Map1.Map1:PersistentLevel.PaperFlipbookActor_0
+[2023.09.29-20.55.26:423][142]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/Maps/Assets_v1/superhero/LaserEyes.LaserEyes as actor: PaperFlipbookActor /Game/Map1.Map1:PersistentLevel.PaperFlipbookActor_0
+[2023.09.29-20.55.26:425][142]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.09.29-20.55.28:056][333]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/Maps/Assets_v1/superhero/LaserEyes.LaserEyes
+[2023.09.29-20.55.28:056][333]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/Maps/Assets_v1/superhero/LaserEyes.LaserEyes
+[2023.09.29-20.55.28:057][333]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/Maps/Assets_v1/superhero/LaserEyes.LaserEyes as actor: PaperFlipbookActor /Game/Map1.Map1:PersistentLevel.PaperFlipbookActor_1
+[2023.09.29-20.55.28:057][333]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/Maps/Assets_v1/superhero/LaserEyes.LaserEyes as actor: PaperFlipbookActor /Game/Map1.Map1:PersistentLevel.PaperFlipbookActor_1
+[2023.09.29-20.55.28:079][333]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.29-20.57.22:513][948]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Maps/Assets_v1/superhero_fx/superhero_fx_trail_h_spritesheet.superhero_fx_trail_h_spritesheet
+[2023.09.29-20.57.22:513][948]LogTexture: Display: Building textures: /Game/Maps/Assets_v1/superhero_fx/superhero_fx_trail_h_spritesheet.superhero_fx_trail_h_spritesheet (BGRA8, 64x16 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2023.09.29-20.57.22:593][948]LogViewport: Scene viewport resized to 1424x916, mode Windowed.
+[2023.09.29-20.57.22:641][949]LogViewport: Scene viewport resized to 1424x901, mode Windowed.
+[2023.09.29-20.57.22:664][950]LogViewport: Scene viewport resized to 1424x890, mode Windowed.
+[2023.09.29-20.57.45:456][155]LogSlate: Window 'superhero_fx_trail_h_spritesheet' being destroyed
+[2023.09.29-20.57.45:462][155]LogSlate: Window 'superhero_fx_trail_h_spritesheet' being destroyed
+[2023.09.29-20.57.52:767][ 19]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Maps/Assets_v1/superhero_fx/superhero_fx_beam_1.superhero_fx_beam_1
+[2023.09.29-20.57.52:767][ 19]LogTexture: Display: Building textures: /Game/Maps/Assets_v1/superhero_fx/superhero_fx_beam_1.superhero_fx_beam_1 (BGRA8, 16x8 x1x1x1) (Required Memory Estimate: 0.066231 MB), EncodeSpeed: Fast
+[2023.09.29-20.57.52:848][ 19]LogViewport: Scene viewport resized to 1424x916, mode Windowed.
+[2023.09.29-20.57.52:892][ 20]LogViewport: Scene viewport resized to 1424x902, mode Windowed.
+[2023.09.29-20.57.52:915][ 21]LogViewport: Scene viewport resized to 1424x890, mode Windowed.
+[2023.09.29-20.58.00:395][735]LogSlate: Window 'superhero_fx_beam_1' being destroyed
+[2023.09.29-20.58.00:399][735]LogSlate: Window 'superhero_fx_beam_1' being destroyed
+[2023.09.29-20.58.02:766][ 12]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Maps/Assets_v1/superhero_fx/superhero_fx_beam_spritesheet.superhero_fx_beam_spritesheet
+[2023.09.29-20.58.02:767][ 12]LogTexture: Display: Building textures: /Game/Maps/Assets_v1/superhero_fx/superhero_fx_beam_spritesheet.superhero_fx_beam_spritesheet (BGRA8, 64x8 x1x1x1) (Required Memory Estimate: 0.077461 MB), EncodeSpeed: Fast
+[2023.09.29-20.58.02:849][ 12]LogViewport: Scene viewport resized to 1424x915, mode Windowed.
+[2023.09.29-20.58.02:894][ 13]LogViewport: Scene viewport resized to 1424x901, mode Windowed.
+[2023.09.29-20.58.02:917][ 14]LogViewport: Scene viewport resized to 1424x890, mode Windowed.
+[2023.09.29-20.58.12:546][955]LogSlate: Window 'superhero_fx_beam_spritesheet' being destroyed
+[2023.09.29-20.58.12:551][955]LogSlate: Window 'superhero_fx_beam_spritesheet' being destroyed
+[2023.09.29-20.58.14:397][169]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Maps/Assets_v1/superhero_fx/superhero_fx_beam_4.superhero_fx_beam_4
+[2023.09.29-20.58.14:397][169]LogTexture: Display: Building textures: /Game/Maps/Assets_v1/superhero_fx/superhero_fx_beam_4.superhero_fx_beam_4 (BGRA8, 16x8 x1x1x1) (Required Memory Estimate: 0.066231 MB), EncodeSpeed: Fast
+[2023.09.29-20.58.14:474][169]LogViewport: Scene viewport resized to 1424x918, mode Windowed.
+[2023.09.29-20.58.14:521][170]LogViewport: Scene viewport resized to 1424x904, mode Windowed.
+[2023.09.29-20.58.14:545][171]LogViewport: Scene viewport resized to 1424x890, mode Windowed.
+[2023.09.29-20.58.18:165][512]LogSlate: Window 'superhero_fx_beam_4' being destroyed
+[2023.09.29-20.58.18:170][512]LogSlate: Window 'superhero_fx_beam_4' being destroyed
+[2023.09.29-20.58.22:194][987]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Maps/Assets_v1/superhero_fx/superhero_fx_explode.superhero_fx_explode
+[2023.09.29-20.58.22:195][987]LogTexture: Display: Building textures: /Game/Maps/Assets_v1/superhero_fx/superhero_fx_explode.superhero_fx_explode (BGRA8, 64x16 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2023.09.29-20.58.22:275][987]LogViewport: Scene viewport resized to 1424x916, mode Windowed.
+[2023.09.29-20.58.22:320][988]LogViewport: Scene viewport resized to 1424x903, mode Windowed.
+[2023.09.29-20.58.22:343][989]LogViewport: Scene viewport resized to 1424x890, mode Windowed.
+[2023.09.29-20.58.27:907][525]LogSlate: Window 'superhero_fx_explode' being destroyed
+[2023.09.29-20.58.27:910][525]LogSlate: Window 'superhero_fx_explode' being destroyed
+[2023.09.29-20.58.32:655][ 79]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Maps/Assets_v1/superhero_fx/superhero_fx_impact_inflict_1.superhero_fx_impact_inflict_1
+[2023.09.29-20.58.32:655][ 79]LogTexture: Display: Building textures: /Game/Maps/Assets_v1/superhero_fx/superhero_fx_impact_inflict_1.superhero_fx_impact_inflict_1 (BGRA8, 8x8 x1x1x1) (Required Memory Estimate: 0.064365 MB), EncodeSpeed: Fast
+[2023.09.29-20.58.32:734][ 79]LogViewport: Scene viewport resized to 1424x917, mode Windowed.
+[2023.09.29-20.58.32:781][ 80]LogViewport: Scene viewport resized to 1424x902, mode Windowed.
+[2023.09.29-20.58.32:805][ 81]LogViewport: Scene viewport resized to 1424x890, mode Windowed.
+[2023.09.29-20.58.36:394][422]LogSlate: Window 'superhero_fx_impact_inflict_1' being destroyed
+[2023.09.29-20.58.36:399][422]LogSlate: Window 'superhero_fx_impact_inflict_1' being destroyed
+[2023.09.29-20.59.17:589][323]LogTexture: Display: Building textures: /Game/Maps/Assets_v1/superhero_fx/superhero_fx_beam_2.superhero_fx_beam_2 (BGRA8, 16x8 x1x1x1) (Required Memory Estimate: 0.066231 MB), EncodeSpeed: Fast
+[2023.09.29-20.59.17:590][323]LogTexture: Display: Building textures: /Game/Maps/Assets_v1/superhero_fx/superhero_fx_beam_3.superhero_fx_beam_3 (BGRA8, 16x8 x1x1x1) (Required Memory Estimate: 0.066231 MB), EncodeSpeed: Fast
+[2023.09.29-21.00.51:364][363]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Maps/Assets_v1/superhero_fx/superhero_fx_beam.superhero_fx_beam
+[2023.09.29-21.00.51:365][363]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.29-21.00.51:365][363]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.29-21.00.51:438][363]LogViewport: Scene viewport resized to 1526x790, mode Windowed.
+[2023.09.29-21.00.51:452][364]LogViewport: Scene viewport resized to 1526x785, mode Windowed.
+[2023.09.29-21.00.51:493][365]LogViewport: Scene viewport resized to 1526x770, mode Windowed.
+[2023.09.29-21.00.51:509][366]LogViewport: Scene viewport resized to 1526x763, mode Windowed.
+[2023.09.29-21.00.51:525][367]LogViewport: Scene viewport resized to 1526x761, mode Windowed.
+[2023.09.29-21.01.21:210][435]LogSlate: Window 'superhero_fx_beam' being destroyed
+[2023.09.29-21.01.21:215][435]LogSlate: Window 'superhero_fx_beam' being destroyed
+[2023.09.29-21.01.21:220][435]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.09.29-21.01.21:220][435]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.29-21.01.28:081][247]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.09.29-21.01.31:215][247]LogSlate: Window 'Delete Assets' being destroyed
+[2023.09.29-21.01.31:258][247]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.09.29-21.01.31:265][247]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.09.29-21.01.31:270][247]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.09.29-21.01.43:259][658]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Maps/Assets_v1/superhero_fx/superhero_fx_beam_spritesheet_Flipbook.superhero_fx_beam_spritesheet_Flipbook
+[2023.09.29-21.01.43:260][658]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.29-21.01.43:260][658]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.29-21.01.43:335][658]LogViewport: Scene viewport resized to 1526x789, mode Windowed.
+[2023.09.29-21.01.43:379][659]LogViewport: Scene viewport resized to 1526x772, mode Windowed.
+[2023.09.29-21.01.43:410][660]LogViewport: Scene viewport resized to 1526x761, mode Windowed.
+[2023.09.29-21.01.47:926][129]LogSlate: Window 'superhero_fx_beam_spritesheet_Flipbook' being destroyed
+[2023.09.29-21.01.47:930][129]LogSlate: Window 'superhero_fx_beam_spritesheet_Flipbook' being destroyed
+[2023.09.29-21.01.47:931][129]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.09.29-21.01.47:931][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.29-21.01.51:364][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.09.29-21.01.53:108][532]LogSlate: Window 'Delete Assets' being destroyed
+[2023.09.29-21.01.53:118][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.09.29-21.01.53:124][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.09.29-21.01.53:130][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.09.29-21.01.56:254][895]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Maps/Assets_v1/superhero_fx/superhero_fx_beam_spritesheet.superhero_fx_beam_spritesheet
+[2023.09.29-21.01.56:334][895]LogViewport: Scene viewport resized to 1424x917, mode Windowed.
+[2023.09.29-21.01.56:380][896]LogViewport: Scene viewport resized to 1424x904, mode Windowed.
+[2023.09.29-21.01.56:403][897]LogViewport: Scene viewport resized to 1424x891, mode Windowed.
+[2023.09.29-21.01.56:420][898]LogViewport: Scene viewport resized to 1424x890, mode Windowed.
+[2023.09.29-21.01.59:779][215]LogSlate: Window 'superhero_fx_beam_spritesheet' being destroyed
+[2023.09.29-21.01.59:784][215]LogSlate: Window 'superhero_fx_beam_spritesheet' being destroyed
+[2023.09.29-21.02.25:074][194]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Maps/Assets_v1/superhero_fx/superhero_fx_beam.superhero_fx_beam
+[2023.09.29-21.02.25:075][194]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.29-21.02.25:075][194]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.29-21.02.25:149][194]LogViewport: Scene viewport resized to 1526x790, mode Windowed.
+[2023.09.29-21.02.25:163][195]LogViewport: Scene viewport resized to 1526x784, mode Windowed.
+[2023.09.29-21.02.25:201][196]LogViewport: Scene viewport resized to 1526x770, mode Windowed.
+[2023.09.29-21.02.25:218][197]LogViewport: Scene viewport resized to 1526x764, mode Windowed.
+[2023.09.29-21.02.25:235][198]LogViewport: Scene viewport resized to 1526x761, mode Windowed.
+[2023.09.29-21.02.41:450][888]LogSlate: Window 'superhero_fx_beam' being destroyed
+[2023.09.29-21.02.41:455][888]LogSlate: Window 'superhero_fx_beam' being destroyed
+[2023.09.29-21.02.41:460][888]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.09.29-21.02.41:460][888]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.29-21.02.50:127][910]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.09.29-21.02.51:774][910]LogSlate: Window 'Delete Assets' being destroyed
+[2023.09.29-21.02.51:785][910]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.09.29-21.02.51:791][910]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.09.29-21.02.51:797][910]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.09.29-21.03.01:459][ 46]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Maps/Assets_v1/superhero_fx/superhero_fx_beam_spritesheet_Flipbook.superhero_fx_beam_spritesheet_Flipbook
+[2023.09.29-21.03.01:460][ 46]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.29-21.03.01:460][ 46]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.29-21.03.01:538][ 46]LogViewport: Scene viewport resized to 1526x788, mode Windowed.
+[2023.09.29-21.03.01:553][ 47]LogViewport: Scene viewport resized to 1526x782, mode Windowed.
+[2023.09.29-21.03.01:604][ 48]LogViewport: Scene viewport resized to 1526x763, mode Windowed.
+[2023.09.29-21.03.01:619][ 49]LogViewport: Scene viewport resized to 1526x761, mode Windowed.
+[2023.09.29-21.03.19:286][875]LogSlate: Window 'superhero_fx_beam_spritesheet_Flipbook' being destroyed
+[2023.09.29-21.03.19:290][875]LogSlate: Window 'superhero_fx_beam_spritesheet_Flipbook' being destroyed
+[2023.09.29-21.03.19:292][875]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.09.29-21.03.19:292][875]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.29-21.03.23:716][400]LogContentBrowser: Attempting asset rename: superhero_fx_beam_spritesheet_Flipbook -> superhero_fx_beam_spritesheet_Flipbook
+[2023.09.29-21.03.24:964][533]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.09.29-21.03.25:988][533]LogSlate: Window 'Delete Assets' being destroyed
+[2023.09.29-21.03.25:999][533]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.09.29-21.03.26:005][533]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.09.29-21.03.26:012][533]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.09.29-21.03.56:452][167]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/Maps/Assets_v1/superhero_fx/superhero_fx_beam_spritesheet_Sprite.superhero_fx_beam_spritesheet_Sprite
+[2023.09.29-21.03.56:453][167]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.29-21.03.56:453][167]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.29-21.03.56:538][167]LogSlate: Took 0.003944 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.09.29-21.03.56:542][167]LogViewport: Scene viewport resized to 1526x918, mode Windowed.
+[2023.09.29-21.03.56:609][168]LogViewport: Scene viewport resized to 1526x894, mode Windowed.
+[2023.09.29-21.04.08:428][181]LogSlate: Window 'superhero_fx_beam_spritesheet_Sprite' being destroyed
+[2023.09.29-21.04.08:434][181]LogSlate: Window 'superhero_fx_beam_spritesheet_Sprite' being destroyed
+[2023.09.29-21.04.08:438][181]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.09.29-21.04.08:438][181]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.29-21.04.54:460][633]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Maps/Assets_v1/superhero_fx/superhero_fx_beam_spritesheet.superhero_fx_beam_spritesheet
+[2023.09.29-21.04.54:546][633]LogViewport: Scene viewport resized to 1424x915, mode Windowed.
+[2023.09.29-21.04.54:592][634]LogViewport: Scene viewport resized to 1424x900, mode Windowed.
+[2023.09.29-21.04.54:616][635]LogViewport: Scene viewport resized to 1424x890, mode Windowed.
+[2023.09.29-21.05.04:225][556]LogSlate: Window 'superhero_fx_beam_spritesheet' being destroyed
+[2023.09.29-21.05.04:230][556]LogSlate: Window 'superhero_fx_beam_spritesheet' being destroyed
+[2023.09.29-21.05.06:685][837]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/Maps/Assets_v1/superhero_fx/superhero_fx_beam_spritesheet_Sprite.superhero_fx_beam_spritesheet_Sprite
+[2023.09.29-21.05.06:685][837]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.29-21.05.06:685][837]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.29-21.05.06:762][837]LogViewport: Scene viewport resized to 1526x922, mode Windowed.
+[2023.09.29-21.05.06:809][838]LogViewport: Scene viewport resized to 1526x904, mode Windowed.
+[2023.09.29-21.05.06:840][839]LogViewport: Scene viewport resized to 1526x894, mode Windowed.
+[2023.09.29-21.05.09:070][ 33]LogSlate: Window 'superhero_fx_beam_spritesheet_Sprite' being destroyed
+[2023.09.29-21.05.09:074][ 33]LogSlate: Window 'superhero_fx_beam_spritesheet_Sprite' being destroyed
+[2023.09.29-21.05.09:078][ 33]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.09.29-21.05.09:078][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.29-21.05.12:541][442]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Maps/Assets_v1/superhero_fx/superhero_fx_beam_3.superhero_fx_beam_3
+[2023.09.29-21.05.12:621][442]LogViewport: Scene viewport resized to 1424x917, mode Windowed.
+[2023.09.29-21.05.12:668][443]LogViewport: Scene viewport resized to 1424x903, mode Windowed.
+[2023.09.29-21.05.12:690][444]LogViewport: Scene viewport resized to 1424x891, mode Windowed.
+[2023.09.29-21.05.12:706][445]LogViewport: Scene viewport resized to 1424x890, mode Windowed.
+[2023.09.29-21.05.16:068][761]LogSlate: Window 'superhero_fx_beam_3' being destroyed
+[2023.09.29-21.05.16:073][761]LogSlate: Window 'superhero_fx_beam_3' being destroyed
+[2023.09.29-21.05.59:349][866]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Maps/Assets_v1/superhero_fx/superhero_fx_beam_spritesheet_Flipbook.superhero_fx_beam_spritesheet_Flipbook
+[2023.09.29-21.05.59:349][866]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.29-21.05.59:349][866]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.29-21.05.59:427][866]LogViewport: Scene viewport resized to 1526x789, mode Windowed.
+[2023.09.29-21.05.59:441][867]LogViewport: Scene viewport resized to 1526x783, mode Windowed.
+[2023.09.29-21.05.59:482][868]LogViewport: Scene viewport resized to 1526x768, mode Windowed.
+[2023.09.29-21.05.59:498][869]LogViewport: Scene viewport resized to 1526x761, mode Windowed.
+[2023.09.29-21.06.05:215][459]LogSlate: Window 'superhero_fx_beam_spritesheet_Flipbook' being destroyed
+[2023.09.29-21.06.05:220][459]LogSlate: Window 'superhero_fx_beam_spritesheet_Flipbook' being destroyed
+[2023.09.29-21.06.05:224][459]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.09.29-21.06.05:224][459]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.29-21.06.11:307][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.09.29-21.06.15:269][179]LogSlate: Window 'Delete Assets' being destroyed
+[2023.09.29-21.06.15:280][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.09.29-21.06.15:285][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.09.29-21.06.15:291][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2023.09.29-21.06.32:464][163]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Maps/Assets_v1/superhero_fx/superhero_fx_beam.superhero_fx_beam
+[2023.09.29-21.06.32:465][163]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.29-21.06.32:465][163]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.29-21.06.32:538][163]LogViewport: Scene viewport resized to 1526x790, mode Windowed.
+[2023.09.29-21.06.32:592][164]LogViewport: Scene viewport resized to 1526x769, mode Windowed.
+[2023.09.29-21.06.32:623][165]LogViewport: Scene viewport resized to 1526x761, mode Windowed.
+[2023.09.29-21.07.40:895][757]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.29-21.07.40:923][757]LogSavePackage: Moving output files for package: /Game/Maps/Assets_v1/superhero_fx/superhero_fx_beam
+[2023.09.29-21.07.40:923][757]LogSavePackage: Moving 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/superhero_fx_beamB1DBE3B5439DD485B198119CBC87BC51.tmp' to 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Content/Maps/Assets_v1/superhero_fx/superhero_fx_beam.uasset'
+[2023.09.29-21.07.40:930][757]LogFileHelpers: InternalPromptForCheckoutAndSave took 35 ms (total: 118 ms)
+[2023.09.29-21.07.40:933][757]AssetCheck: New page: Asset Save: superhero_fx_beam
+[2023.09.29-21.07.40:933][757]LogContentValidation: Display: Validating /Script/Paper2D.PaperFlipbook /Game/Maps/Assets_v1/superhero_fx/superhero_fx_beam.superhero_fx_beam
+[2023.09.29-21.15.19:944][841]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/Maps/Assets_v1/superhero_fx/superhero_fx_beam_spritesheet_Sprite.superhero_fx_beam_spritesheet_Sprite
+[2023.09.29-21.15.19:944][841]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.29-21.15.19:944][841]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.29-21.15.19:992][841]LogViewport: Scene viewport resized to 1526x930, mode Windowed.
+[2023.09.29-21.15.20:063][842]LogViewport: Scene viewport resized to 1526x902, mode Windowed.
+[2023.09.29-21.15.20:096][843]LogViewport: Scene viewport resized to 1526x894, mode Windowed.
+[2023.09.29-21.16.34:358][ 46]Cmd: TRANSACTION UNDO
+[2023.09.29-21.16.34:358][ 46]LogEditorTransaction: Undo Set Vector Property
+[2023.09.29-21.16.34:778][ 60]Cmd: TRANSACTION UNDO
+[2023.09.29-21.16.34:778][ 60]LogEditorTransaction: Undo Set Vector Property
+[2023.09.29-21.16.35:211][ 91]Cmd: TRANSACTION UNDO
+[2023.09.29-21.16.35:211][ 91]LogEditorTransaction: Undo Set Vector Property
+[2023.09.29-21.16.35:824][145]Cmd: TRANSACTION UNDO
+[2023.09.29-21.16.35:824][145]LogEditorTransaction: Undo Set Vector Property
+[2023.09.29-21.16.36:447][198]Cmd: TRANSACTION UNDO
+[2023.09.29-21.16.36:448][198]LogEditorTransaction: Undo Edit X
+[2023.09.29-21.16.37:411][281]Cmd: TRANSACTION UNDO
+[2023.09.29-21.16.37:411][281]LogEditorTransaction: Undo Reorder key frames
+[2023.09.29-21.16.42:609][730]Cmd: TRANSACTION REDO
+[2023.09.29-21.16.42:609][730]LogEditorTransaction: Redo Reorder key frames
+[2023.09.29-21.17.57:235][187]Cmd: TRANSACTION UNDO
+[2023.09.29-21.17.57:235][187]LogEditorTransaction: Undo Edit X
+[2023.09.29-21.17.57:670][201]Cmd: TRANSACTION UNDO
+[2023.09.29-21.17.57:670][201]LogEditorTransaction: Undo Edit X
+[2023.09.29-21.19.53:136][878]Cmd: TRANSACTION UNDO
+[2023.09.29-21.19.53:136][878]LogEditorTransaction: Undo Reorder key frames
+[2023.09.29-21.19.53:614][894]Cmd: TRANSACTION UNDO
+[2023.09.29-21.19.53:614][894]LogEditorTransaction: Undo Reorder key frames
+[2023.09.29-21.19.54:674][991]Cmd: TRANSACTION UNDO
+[2023.09.29-21.19.54:674][991]LogEditorTransaction: Undo Duplicate Keyframe
+[2023.09.29-21.19.56:050][118]Cmd: TRANSACTION REDO
+[2023.09.29-21.19.56:050][118]LogEditorTransaction: Redo Duplicate Keyframe
+[2023.09.29-21.19.56:277][139]Cmd: TRANSACTION REDO
+[2023.09.29-21.19.56:277][139]LogEditorTransaction: Redo Reorder key frames
+[2023.09.29-21.19.56:768][182]Cmd: TRANSACTION REDO
+[2023.09.29-21.19.56:768][182]LogEditorTransaction: Redo Reorder key frames
+[2023.09.29-21.19.58:055][273]Cmd: TRANSACTION REDO
+[2023.09.29-21.19.58:055][273]LogEditorTransaction: Redo Edit X
+[2023.09.29-21.19.59:168][379]Cmd: TRANSACTION REDO
+[2023.09.29-21.19.59:168][379]LogEditorTransaction: Redo Edit X
+[2023.09.29-21.21.35:250][784]Cmd: TRANSACTION UNDO
+[2023.09.29-21.21.35:250][784]LogEditorTransaction: Undo Reset to Default
+[2023.09.29-21.21.36:103][833]Cmd: TRANSACTION UNDO
+[2023.09.29-21.21.36:103][833]LogEditorTransaction: Undo Set Vector Property
+[2023.09.29-21.22.30:512][896]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.09.29-21.22.30:512][896]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.29-21.22.30:538][896]LogViewport: Scene viewport resized to 1526x808, mode Windowed.
+[2023.09.29-21.22.30:568][897]LogViewport: Scene viewport resized to 1526x794, mode Windowed.
+[2023.09.29-21.22.30:587][898]LogViewport: Scene viewport resized to 1526x786, mode Windowed.
+[2023.09.29-21.22.30:606][899]LogViewport: Scene viewport resized to 1526x779, mode Windowed.
+[2023.09.29-21.22.30:627][900]LogViewport: Scene viewport resized to 1526x771, mode Windowed.
+[2023.09.29-21.22.30:645][901]LogViewport: Scene viewport resized to 1526x764, mode Windowed.
+[2023.09.29-21.22.30:663][902]LogViewport: Scene viewport resized to 1526x761, mode Windowed.
+[2023.09.29-21.25.17:858][710]LogSlate: Window 'superhero_fx_beam' being destroyed
+[2023.09.29-21.25.17:864][710]LogSlate: Window 'superhero_fx_beam' being destroyed
+[2023.09.29-21.25.17:869][710]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.09.29-21.25.17:869][710]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.29-21.25.26:096][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.09.29-21.25.27:593][676]LogSlate: Window 'Delete Assets' being destroyed
+[2023.09.29-21.25.27:603][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.09.29-21.25.27:610][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.09.29-21.25.27:615][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.09.29-21.25.45:150][744]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/Maps/Assets_v1/superhero_fx/superhero_fx_beam_spritesheet_Sprite.superhero_fx_beam_spritesheet_Sprite
+[2023.09.29-21.25.45:151][744]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.29-21.25.45:151][744]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.29-21.25.45:241][744]LogViewport: Scene viewport resized to 1526x915, mode Windowed.
+[2023.09.29-21.25.45:287][745]LogViewport: Scene viewport resized to 1526x895, mode Windowed.
+[2023.09.29-21.25.45:338][746]LogViewport: Scene viewport resized to 1526x894, mode Windowed.
+[2023.09.29-21.25.58:744][997]LogSlate: Window 'superhero_fx_beam_spritesheet_Sprite' being destroyed
+[2023.09.29-21.25.58:749][997]LogSlate: Window 'superhero_fx_beam_spritesheet_Sprite' being destroyed
+[2023.09.29-21.25.58:753][997]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2023.09.29-21.25.58:753][997]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.29-21.26.32:371][205]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.09.29-21.26.32:374][205]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map1" FILE="C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/Autosaves/Game/Map1_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.09.29-21.26.32:378][205]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Map1_Auto3
+[2023.09.29-21.26.32:378][205]LogSavePackage: Moving 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/Map1_Auto333101D0D4FE24B73414FD7998FA539EE.tmp' to 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/Autosaves/Game/Map1_Auto3.umap'
+[2023.09.29-21.26.32:383][205]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map1' took 0.018
+[2023.09.29-21.26.32:383][205]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.018
+[2023.09.29-21.26.32:383][205]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/Assets_v1/bg/superhero_bg_tiles_a_FullDMG] ([1] browsable assets)...
+[2023.09.29-21.26.32:383][205]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Assets_v1/bg/superhero_bg_tiles_a_FullDMG]
+[2023.09.29-21.26.32:384][205]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Assets_v1/bg/superhero_bg_tiles_a_FullDMG_Auto3
+[2023.09.29-21.26.32:385][205]LogSavePackage: Moving 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/superhero_bg_tiles_a_FullDMG_AutAA21C6CD4D88AFDC59A3E3A0889E1A03.tmp' to 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/Autosaves/Game/Maps/Assets_v1/bg/superhero_bg_tiles_a_FullDMG_Auto3.uasset'
+[2023.09.29-21.26.32:386][205]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/Assets_v1/bg/superhero_bg_tiles_a_HiDMG] ([1] browsable assets)...
+[2023.09.29-21.26.32:386][205]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Assets_v1/bg/superhero_bg_tiles_a_HiDMG]
+[2023.09.29-21.26.32:387][205]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Assets_v1/bg/superhero_bg_tiles_a_HiDMG_Auto3
+[2023.09.29-21.26.32:387][205]LogSavePackage: Moving 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/superhero_bg_tiles_a_HiDMG_Auto3B748B17F42090C76CCFE00A7FF837501.tmp' to 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/Autosaves/Game/Maps/Assets_v1/bg/superhero_bg_tiles_a_HiDMG_Auto3.uasset'
+[2023.09.29-21.26.32:388][205]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/Assets_v1/bg/superhero_bg_tiles_a_lowDMG] ([1] browsable assets)...
+[2023.09.29-21.26.32:389][205]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Assets_v1/bg/superhero_bg_tiles_a_lowDMG]
+[2023.09.29-21.26.32:389][205]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Assets_v1/bg/superhero_bg_tiles_a_lowDMG_Auto3
+[2023.09.29-21.26.32:389][205]LogSavePackage: Moving 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/superhero_bg_tiles_a_lowDMG_Auto12AEE2934C9361EA4EFF25B9A8CCF32F.tmp' to 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/Autosaves/Game/Maps/Assets_v1/bg/superhero_bg_tiles_a_lowDMG_Auto3.uasset'
+[2023.09.29-21.26.32:391][205]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/Assets_v1/bg/superhero_bg_tiles_a_MedDMG] ([1] browsable assets)...
+[2023.09.29-21.26.32:391][205]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Assets_v1/bg/superhero_bg_tiles_a_MedDMG]
+[2023.09.29-21.26.32:392][205]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Assets_v1/bg/superhero_bg_tiles_a_MedDMG_Auto3
+[2023.09.29-21.26.32:392][205]LogSavePackage: Moving 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/superhero_bg_tiles_a_MedDMG_AutoF7719D23465419FF203B39BC2ABBA66C.tmp' to 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/Autosaves/Game/Maps/Assets_v1/bg/superhero_bg_tiles_a_MedDMG_Auto3.uasset'
+[2023.09.29-21.26.32:393][205]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Maps/Assets_v1/superhero/superhero_shades_12_Sprite] ([1] browsable assets)...
+[2023.09.29-21.26.32:396][205]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Maps/Assets_v1/superhero/superhero_shades_12_Sprite.superhero_shades_12_Sprite]
+[2023.09.29-21.26.32:396][205]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Assets_v1/superhero/superhero_shades_12_Sprite]
+[2023.09.29-21.26.32:398][205]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Assets_v1/superhero/superhero_shades_12_Sprite_Auto3
+[2023.09.29-21.26.32:398][205]LogSavePackage: Moving 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/superhero_shades_12_Sprite_Auto3DDB2DC99437DE94B4D19B697F8A2EBAF.tmp' to 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/Autosaves/Game/Maps/Assets_v1/superhero/superhero_shades_12_Sprite_Auto3.uasset'
+[2023.09.29-21.26.32:399][205]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Maps/Assets_v1/superhero/superhero_shades_13_Sprite] ([1] browsable assets)...
+[2023.09.29-21.26.32:401][205]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Maps/Assets_v1/superhero/superhero_shades_13_Sprite.superhero_shades_13_Sprite]
+[2023.09.29-21.26.32:401][205]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Assets_v1/superhero/superhero_shades_13_Sprite]
+[2023.09.29-21.26.32:403][205]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Assets_v1/superhero/superhero_shades_13_Sprite_Auto3
+[2023.09.29-21.26.32:403][205]LogSavePackage: Moving 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/superhero_shades_13_Sprite_Auto3B85815404F1E570AD1AE6480C8B61322.tmp' to 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/Autosaves/Game/Maps/Assets_v1/superhero/superhero_shades_13_Sprite_Auto3.uasset'
+[2023.09.29-21.26.32:404][205]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Maps/Assets_v1/superhero/superhero_shades_14_Sprite] ([1] browsable assets)...
+[2023.09.29-21.26.32:407][205]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Maps/Assets_v1/superhero/superhero_shades_14_Sprite.superhero_shades_14_Sprite]
+[2023.09.29-21.26.32:407][205]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Assets_v1/superhero/superhero_shades_14_Sprite]
+[2023.09.29-21.26.32:409][205]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Assets_v1/superhero/superhero_shades_14_Sprite_Auto3
+[2023.09.29-21.26.32:409][205]LogSavePackage: Moving 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/superhero_shades_14_Sprite_Auto343231D7B43DDE34D3E6A3CA12FF3162C.tmp' to 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/Autosaves/Game/Maps/Assets_v1/superhero/superhero_shades_14_Sprite_Auto3.uasset'
+[2023.09.29-21.26.32:410][205]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Maps/Assets_v1/superhero/superhero_shades_15_Sprite] ([1] browsable assets)...
+[2023.09.29-21.26.32:413][205]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Maps/Assets_v1/superhero/superhero_shades_15_Sprite.superhero_shades_15_Sprite]
+[2023.09.29-21.26.32:413][205]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Assets_v1/superhero/superhero_shades_15_Sprite]
+[2023.09.29-21.26.32:414][205]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Assets_v1/superhero/superhero_shades_15_Sprite_Auto3
+[2023.09.29-21.26.32:414][205]LogSavePackage: Moving 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/superhero_shades_15_Sprite_Auto351C4D4074C4038099D19C2A0E74BAFBA.tmp' to 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/Autosaves/Game/Maps/Assets_v1/superhero/superhero_shades_15_Sprite_Auto3.uasset'
+[2023.09.29-21.26.32:415][205]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Maps/Assets_v1/superhero_fx/superhero_fx_beam_spritesheet_Sprite] ([1] browsable assets)...
+[2023.09.29-21.26.32:418][205]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Maps/Assets_v1/superhero_fx/superhero_fx_beam_spritesheet_Sprite.superhero_fx_beam_spritesheet_Sprite]
+[2023.09.29-21.26.32:418][205]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Assets_v1/superhero_fx/superhero_fx_beam_spritesheet_Sprite]
+[2023.09.29-21.26.32:419][205]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Assets_v1/superhero_fx/superhero_fx_beam_spritesheet_Sprite_Auto3
+[2023.09.29-21.26.32:419][205]LogSavePackage: Moving 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/superhero_fx_beam_spritesheet_Sp158B13484AF1DC0E2824DCA7C46F91ED.tmp' to 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/Autosaves/Game/Maps/Assets_v1/superhero_fx/superhero_fx_beam_spritesheet_Sprite_Auto3.uasset'
+[2023.09.29-21.26.32:420][205]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Maps/Assets_v1/superhero_fx/superhero_fx_beam_1_Sprite] ([1] browsable assets)...
+[2023.09.29-21.26.32:422][205]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Maps/Assets_v1/superhero_fx/superhero_fx_beam_1_Sprite.superhero_fx_beam_1_Sprite]
+[2023.09.29-21.26.32:422][205]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Assets_v1/superhero_fx/superhero_fx_beam_1_Sprite]
+[2023.09.29-21.26.32:424][205]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Assets_v1/superhero_fx/superhero_fx_beam_1_Sprite_Auto3
+[2023.09.29-21.26.32:424][205]LogSavePackage: Moving 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/superhero_fx_beam_1_Sprite_Auto328FDC4554F647E41CAB3B28C918C2AB1.tmp' to 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/Autosaves/Game/Maps/Assets_v1/superhero_fx/superhero_fx_beam_1_Sprite_Auto3.uasset'
+[2023.09.29-21.26.32:425][205]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Maps/Assets_v1/superhero_fx/superhero_fx_beam_2_Sprite] ([1] browsable assets)...
+[2023.09.29-21.26.32:427][205]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Maps/Assets_v1/superhero_fx/superhero_fx_beam_2_Sprite.superhero_fx_beam_2_Sprite]
+[2023.09.29-21.26.32:427][205]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Assets_v1/superhero_fx/superhero_fx_beam_2_Sprite]
+[2023.09.29-21.26.32:428][205]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Assets_v1/superhero_fx/superhero_fx_beam_2_Sprite_Auto3
+[2023.09.29-21.26.32:428][205]LogSavePackage: Moving 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/superhero_fx_beam_2_Sprite_Auto3DE8AFDBC4A9E47BFDD01158BE48F0E57.tmp' to 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/Autosaves/Game/Maps/Assets_v1/superhero_fx/superhero_fx_beam_2_Sprite_Auto3.uasset'
+[2023.09.29-21.26.32:429][205]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Maps/Assets_v1/superhero_fx/superhero_fx_beam_3_Sprite] ([1] browsable assets)...
+[2023.09.29-21.26.32:432][205]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Maps/Assets_v1/superhero_fx/superhero_fx_beam_3_Sprite.superhero_fx_beam_3_Sprite]
+[2023.09.29-21.26.32:432][205]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Assets_v1/superhero_fx/superhero_fx_beam_3_Sprite]
+[2023.09.29-21.26.32:434][205]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Assets_v1/superhero_fx/superhero_fx_beam_3_Sprite_Auto3
+[2023.09.29-21.26.32:434][205]LogSavePackage: Moving 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/superhero_fx_beam_3_Sprite_Auto3D9ADF34940FA798605D104A310BA13D8.tmp' to 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/Autosaves/Game/Maps/Assets_v1/superhero_fx/superhero_fx_beam_3_Sprite_Auto3.uasset'
+[2023.09.29-21.26.32:435][205]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Maps/Assets_v1/superhero_fx/superhero_fx_beam_4_Sprite] ([1] browsable assets)...
+[2023.09.29-21.26.32:437][205]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Maps/Assets_v1/superhero_fx/superhero_fx_beam_4_Sprite.superhero_fx_beam_4_Sprite]
+[2023.09.29-21.26.32:437][205]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Assets_v1/superhero_fx/superhero_fx_beam_4_Sprite]
+[2023.09.29-21.26.32:439][205]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Assets_v1/superhero_fx/superhero_fx_beam_4_Sprite_Auto3
+[2023.09.29-21.26.32:439][205]LogSavePackage: Moving 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/superhero_fx_beam_4_Sprite_Auto35BA99E6E475BE9F04946BF87029AC2AC.tmp' to 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/Autosaves/Game/Maps/Assets_v1/superhero_fx/superhero_fx_beam_4_Sprite_Auto3.uasset'
+[2023.09.29-21.26.32:439][205]LogFileHelpers: Auto-saving content packages took 0.056
+[2023.09.29-21.26.48:575][ 98]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Maps/Assets_v1/superhero_fx/superhero_fx_beam_spritesheet.superhero_fx_beam_spritesheet
+[2023.09.29-21.26.48:653][ 98]LogViewport: Scene viewport resized to 1424x918, mode Windowed.
+[2023.09.29-21.26.48:700][ 99]LogViewport: Scene viewport resized to 1424x904, mode Windowed.
+[2023.09.29-21.26.48:723][100]LogViewport: Scene viewport resized to 1424x891, mode Windowed.
+[2023.09.29-21.26.48:740][101]LogViewport: Scene viewport resized to 1424x890, mode Windowed.
+[2023.09.29-21.26.58:165][997]LogSlate: Window 'superhero_fx_beam_spritesheet' being destroyed
+[2023.09.29-21.26.58:170][997]LogSlate: Window 'superhero_fx_beam_spritesheet' being destroyed
+[2023.09.29-21.29.14:680][429]LogSlate: Window 'Message' being destroyed
+[2023.09.29-21.29.14:684][429]Message dialog closed, result: No, title: Message, text: Would you like to cancel exporting the next 3 files as well?
+[2023.09.29-21.29.17:887][429]LogSlate: Window 'Message' being destroyed
+[2023.09.29-21.29.17:890][429]Message dialog closed, result: No, title: Message, text: Would you like to cancel exporting the next 2 files as well?
+[2023.09.29-21.29.19:711][429]LogSlate: Window 'Message' being destroyed
+[2023.09.29-21.29.19:715][429]Message dialog closed, result: No, title: Message, text: Would you like to cancel exporting the next 1 files as well?
+[2023.09.29-21.31.09:769][115]LogAssetTools: Exporting "/Game/Maps/Assets_v1/superhero_fx/superhero_fx_beam_1_Sprite.superhero_fx_beam_1_Sprite" to "C:/Users/kevin/OneDrive/Pictures/beam_ani/Game/Maps/Assets_v1/superhero_fx/superhero_fx_beam_1_Sprite.T3D"
+[2023.09.29-21.31.09:773][115]LogAssetTools: Exporting "/Game/Maps/Assets_v1/superhero_fx/superhero_fx_beam_2_Sprite.superhero_fx_beam_2_Sprite" to "C:/Users/kevin/OneDrive/Pictures/beam_ani/Game/Maps/Assets_v1/superhero_fx/superhero_fx_beam_2_Sprite.T3D"
+[2023.09.29-21.31.09:775][115]LogAssetTools: Exporting "/Game/Maps/Assets_v1/superhero_fx/superhero_fx_beam_3_Sprite.superhero_fx_beam_3_Sprite" to "C:/Users/kevin/OneDrive/Pictures/beam_ani/Game/Maps/Assets_v1/superhero_fx/superhero_fx_beam_3_Sprite.T3D"
+[2023.09.29-21.31.09:787][115]LogAssetTools: Exporting "/Game/Maps/Assets_v1/superhero_fx/superhero_fx_beam_4_Sprite.superhero_fx_beam_4_Sprite" to "C:/Users/kevin/OneDrive/Pictures/beam_ani/Game/Maps/Assets_v1/superhero_fx/superhero_fx_beam_4_Sprite.T3D"
+[2023.09.29-21.32.23:164][406]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2023.09.29-21.32.23:164][406]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2023.09.29-21.32.47:503][313]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2023.09.29-21.33.26:578][473]LogSlate: Window 'Message' being destroyed
+[2023.09.29-21.33.26:582][473]Message dialog closed, result: No, title: Message, text: Would you like to cancel exporting the next 3 files as well?
+[2023.09.29-21.33.29:589][473]LogSlate: Window 'Message' being destroyed
+[2023.09.29-21.33.29:593][473]Message dialog closed, result: No, title: Message, text: Would you like to cancel exporting the next 2 files as well?
+[2023.09.29-21.33.31:123][473]LogSlate: Window 'Message' being destroyed
+[2023.09.29-21.33.31:126][473]Message dialog closed, result: No, title: Message, text: Would you like to cancel exporting the next 1 files as well?
+[2023.09.29-21.34.08:890][974]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/Maps/Assets_v1/superhero_fx/superhero_fx_beam_spritesheet_Sprite.superhero_fx_beam_spritesheet_Sprite
+[2023.09.29-21.34.08:891][974]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.29-21.34.08:891][974]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.29-21.34.08:966][974]LogViewport: Scene viewport resized to 1526x923, mode Windowed.
+[2023.09.29-21.34.08:995][975]LogViewport: Scene viewport resized to 1526x912, mode Windowed.
+[2023.09.29-21.34.09:034][976]LogViewport: Scene viewport resized to 1526x896, mode Windowed.
+[2023.09.29-21.34.09:051][977]LogViewport: Scene viewport resized to 1526x894, mode Windowed.
+[2023.09.29-21.34.24:338][660]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.09.29-21.34.24:346][660]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.09.29-21.34.28:956][660]LogSlate: Window 'Save Content' being destroyed
+[2023.09.29-21.34.40:144][678]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.29-21.34.40:178][678]LogSavePackage: Moving output files for package: /Game/Maps/Assets_v1/superhero_fx/superhero_fx_beam_spritesheet_Sprite
+[2023.09.29-21.34.40:178][678]LogSavePackage: Moving 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/superhero_fx_beam_spritesheet_Sp6CCD79A24B0637EDD51DD091EB2FCBDF.tmp' to 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Content/Maps/Assets_v1/superhero_fx/superhero_fx_beam_spritesheet_Sprite.uasset'
+[2023.09.29-21.34.40:184][678]LogFileHelpers: InternalPromptForCheckoutAndSave took 40 ms (total: 158 ms)
+[2023.09.29-21.34.40:188][678]AssetCheck: New page: Asset Save: superhero_fx_beam_spritesheet_Sprite
+[2023.09.29-21.34.40:188][678]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Maps/Assets_v1/superhero_fx/superhero_fx_beam_spritesheet_Sprite.superhero_fx_beam_spritesheet_Sprite
+[2023.09.29-21.34.54:826][458]LogSlate: Window 'Save Asset As' being destroyed
+[2023.09.29-21.35.02:654][183]LogSlate: Window 'superhero_fx_beam_spritesheet_Sprite' being destroyed
+[2023.09.29-21.35.02:659][183]LogSlate: Window 'superhero_fx_beam_spritesheet_Sprite' being destroyed
+[2023.09.29-21.35.02:663][183]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.09.29-21.35.02:663][183]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.29-21.35.51:104][549]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.09.29-21.35.52:607][549]LogSlate: Window 'Delete Assets' being destroyed
+[2023.09.29-21.35.52:621][549]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.09.29-21.35.52:626][549]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.09.29-21.35.52:632][549]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.09.29-21.36.08:428][415]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Maps/Assets_v1/superhero_fx/superhero_fx_beam_2.superhero_fx_beam_2
+[2023.09.29-21.36.08:506][415]LogViewport: Scene viewport resized to 1424x918, mode Windowed.
+[2023.09.29-21.36.08:552][416]LogViewport: Scene viewport resized to 1424x904, mode Windowed.
+[2023.09.29-21.36.08:576][417]LogViewport: Scene viewport resized to 1424x891, mode Windowed.
+[2023.09.29-21.36.08:593][418]LogViewport: Scene viewport resized to 1424x890, mode Windowed.
+[2023.09.29-21.36.15:241][ 41]LogSlate: Window 'superhero_fx_beam_2' being destroyed
+[2023.09.29-21.36.15:247][ 41]LogSlate: Window 'superhero_fx_beam_2' being destroyed
+[2023.09.29-21.37.08:474][593]LogEditorFactories: Display: Exporting Texture as PNG Layer 0/1 Block 0/1
+[2023.09.29-21.37.09:852][593]LogEditorFactories: Display: Exporting Texture as PNG Layer 0/1 Block 0/1
+[2023.09.29-21.37.10:541][593]LogEditorFactories: Display: Exporting Texture as PNG Layer 0/1 Block 0/1
+[2023.09.29-21.37.11:167][593]LogEditorFactories: Display: Exporting Texture as PNG Layer 0/1 Block 0/1
+[2023.09.29-21.44.19:625][314]LogDerivedDataCache: C:/Users/kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.143 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1427 files in 2268 folders with total size 69 MiB.
+[2023.09.29-22.08.30:107][201]LogInterchangeEngine: [Pending] Importing
+[2023.09.29-22.08.30:107][201]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/kevin/OneDrive/Picturesbeam_1.PNG]
+[2023.09.29-22.08.30:107][201]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.09.29-22.08.30:108][201]LogInterchangeEngine: [Pending] Importing -  (3)
+[2023.09.29-22.08.30:108][201]LogInterchangeEngine: [Pending] Importing -  (4)
+[2023.09.29-22.08.30:108][201]LogInterchangeEngine: [Pending] Importing -  (5)
+[2023.09.29-22.08.30:109][201]LogInterchangeEngine: [Pending] Importing -  (6)
+[2023.09.29-22.08.30:109][201]LogInterchangeEngine: [Pending] Importing -  (7)
+[2023.09.29-22.08.30:109][201]LogInterchangeEngine: [Pending] Importing -  (8)
+[2023.09.29-22.08.30:110][201]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2023.09.29-22.08.30:119][202]LogTexture: Display: Building textures: /Game/Maps/Assets_v1/superhero_fx/beam_1.beam_1 (TFO_AutoDXT, 64x8 x1x1x1) (Required Memory Estimate: 0.143152 MB), EncodeSpeed: Fast
+[2023.09.29-22.08.30:129][202]LogInterchangeEngine: [Success] Import Done
+[2023.09.29-22.08.30:129][202]LogInterchangeEngine: [Pending] Importing
+[2023.09.29-22.08.30:129][202]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/kevin/OneDrive/Picturesbeam_2.PNG]
+[2023.09.29-22.08.30:129][202]LogInterchangeEngine: [Pending] Importing -  (7)
+[2023.09.29-22.08.30:130][202]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2023.09.29-22.08.30:131][202]LogTexture: Display: Building textures: /Game/Maps/Assets_v1/superhero_fx/beam_2.beam_2 (TFO_AutoDXT, 64x8 x1x1x1) (Required Memory Estimate: 0.143152 MB), EncodeSpeed: Fast
+[2023.09.29-22.08.30:131][202]LogInterchangeEngine: [Success] Import Done
+[2023.09.29-22.08.30:131][202]LogInterchangeEngine: [Pending] Importing
+[2023.09.29-22.08.30:131][202]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/kevin/OneDrive/Picturesbeam_3.PNG]
+[2023.09.29-22.08.30:131][202]LogInterchangeEngine: [Pending] Importing -  (6)
+[2023.09.29-22.08.30:136][202]LogInterchangeEngine: [Success] Import Done
+[2023.09.29-22.08.30:142][202]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2023.09.29-22.08.30:145][202]LogInterchangeEngine: [Success] Import Done
+[2023.09.29-22.08.30:156][202]LogTexture: Display: Building textures: /Game/Maps/Assets_v1/superhero_fx/beam_3.beam_3 (TFO_AutoDXT, 64x8 x1x1x1) (Required Memory Estimate: 0.143152 MB), EncodeSpeed: Fast
+[2023.09.29-22.08.30:159][202]LogInterchangeEngine: [Pending] Importing -  (6)
+[2023.09.29-22.08.30:161][202]LogInterchangeEngine: [Success] Import Done
+[2023.09.29-22.08.30:161][202]LogInterchangeEngine: [Pending] Importing
+[2023.09.29-22.08.30:161][202]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/kevin/OneDrive/Picturesbeam_4.PNG]
+[2023.09.29-22.08.30:161][202]LogInterchangeEngine: [Pending] Importing -  (5)
+[2023.09.29-22.08.30:162][202]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2023.09.29-22.08.30:205][203]LogTexture: Display: Building textures: /Game/Maps/Assets_v1/superhero_fx/beam_4.beam_4 (TFO_AutoDXT, 64x8 x1x1x1) (Required Memory Estimate: 0.143152 MB), EncodeSpeed: Fast
+[2023.09.29-22.08.30:211][203]LogInterchangeEngine: [Success] Import Done
+[2023.09.29-22.08.30:211][203]LogInterchangeEngine: [Pending] Importing
+[2023.09.29-22.08.30:211][203]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/kevin/OneDrive/Picturesbeam_5.PNG]
+[2023.09.29-22.08.30:211][203]LogInterchangeEngine: [Pending] Importing -  (4)
+[2023.09.29-22.08.30:212][203]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2023.09.29-22.08.30:213][203]LogTexture: Display: Building textures: /Game/Maps/Assets_v1/superhero_fx/beam_5.beam_5 (TFO_AutoDXT, 64x8 x1x1x1) (Required Memory Estimate: 0.143152 MB), EncodeSpeed: Fast
+[2023.09.29-22.08.30:213][203]LogInterchangeEngine: [Success] Import Done
+[2023.09.29-22.08.30:213][203]LogInterchangeEngine: [Pending] Importing
+[2023.09.29-22.08.30:213][203]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/kevin/OneDrive/Picturesbeam_6.PNG]
+[2023.09.29-22.08.30:213][203]LogInterchangeEngine: [Pending] Importing -  (3)
+[2023.09.29-22.08.30:214][203]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2023.09.29-22.08.30:215][203]LogTexture: Display: Building textures: /Game/Maps/Assets_v1/superhero_fx/beam_6.beam_6 (TFO_AutoDXT, 64x8 x1x1x1) (Required Memory Estimate: 0.143152 MB), EncodeSpeed: Fast
+[2023.09.29-22.08.30:215][203]LogInterchangeEngine: [Success] Import Done
+[2023.09.29-22.08.30:215][203]LogInterchangeEngine: [Pending] Importing
+[2023.09.29-22.08.30:215][203]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/kevin/OneDrive/Picturesbeam_7.PNG]
+[2023.09.29-22.08.30:215][203]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.09.29-22.08.30:216][203]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2023.09.29-22.08.30:218][203]LogTexture: Display: Building textures: /Game/Maps/Assets_v1/superhero_fx/beam_7.beam_7 (TFO_AutoDXT, 64x8 x1x1x1) (Required Memory Estimate: 0.143152 MB), EncodeSpeed: Fast
+[2023.09.29-22.08.30:218][203]LogInterchangeEngine: [Success] Import Done
+[2023.09.29-22.08.30:218][203]LogInterchangeEngine: [Pending] Importing
+[2023.09.29-22.08.30:218][203]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/kevin/OneDrive/Picturesbeam_8.PNG]
+[2023.09.29-22.08.30:219][203]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2023.09.29-22.08.30:221][203]LogTexture: Display: Building textures: /Game/Maps/Assets_v1/superhero_fx/beam_8.beam_8 (TFO_AutoDXT, 64x8 x1x1x1) (Required Memory Estimate: 0.143152 MB), EncodeSpeed: Fast
+[2023.09.29-22.08.30:221][203]LogInterchangeEngine: [Success] Import Done
+[2023.09.29-22.08.30:242][203]LogInterchangeEngine: [Success] Import Done
+[2023.09.29-22.08.30:255][203]LogInterchangeEngine: [Success] Import Done
+[2023.09.29-22.08.30:261][203]LogInterchangeEngine: [Success] Import Done
+[2023.09.29-22.08.30:275][203]LogInterchangeEngine: [Success] Import Done
+[2023.09.29-22.08.30:289][203]LogInterchangeEngine: [Success] Import Done
+[2023.09.29-22.08.30:296][203]LogInterchangeEngine: [Success] Import Done
+[2023.09.29-22.08.33:226][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.09.29-22.08.33:228][433]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map1' took 0.009
+[2023.09.29-22.08.33:229][433]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Maps/Assets_v1/superhero_fx/beam_1] ([1] browsable assets)...
+[2023.09.29-22.08.33:230][433]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Maps/Assets_v1/superhero_fx/beam_1.beam_1]
+[2023.09.29-22.08.33:230][433]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Assets_v1/superhero_fx/beam_1]
+[2023.09.29-22.08.33:232][433]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Assets_v1/superhero_fx/beam_1_Auto4
+[2023.09.29-22.08.33:232][433]LogSavePackage: Moving 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/beam_1_Auto425768ED742EC5A099FF9DA80C8694A55.tmp' to 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/Autosaves/Game/Maps/Assets_v1/superhero_fx/beam_1_Auto4.uasset'
+[2023.09.29-22.08.33:234][433]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Maps/Assets_v1/superhero_fx/beam_2] ([1] browsable assets)...
+[2023.09.29-22.08.33:235][433]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Maps/Assets_v1/superhero_fx/beam_2.beam_2]
+[2023.09.29-22.08.33:235][433]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Assets_v1/superhero_fx/beam_2]
+[2023.09.29-22.08.33:237][433]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Assets_v1/superhero_fx/beam_2_Auto4
+[2023.09.29-22.08.33:237][433]LogSavePackage: Moving 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/beam_2_Auto4C0B489B3408ECA56470BA38C1E7D46D2.tmp' to 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/Autosaves/Game/Maps/Assets_v1/superhero_fx/beam_2_Auto4.uasset'
+[2023.09.29-22.08.33:237][433]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Maps/Assets_v1/superhero_fx/beam_3] ([1] browsable assets)...
+[2023.09.29-22.08.33:239][433]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Maps/Assets_v1/superhero_fx/beam_3.beam_3]
+[2023.09.29-22.08.33:239][433]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Assets_v1/superhero_fx/beam_3]
+[2023.09.29-22.08.33:240][433]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Assets_v1/superhero_fx/beam_3_Auto4
+[2023.09.29-22.08.33:240][433]LogSavePackage: Moving 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/beam_3_Auto4BD853699471B29805F2EA4A6AD8276CF.tmp' to 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/Autosaves/Game/Maps/Assets_v1/superhero_fx/beam_3_Auto4.uasset'
+[2023.09.29-22.08.33:241][433]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Maps/Assets_v1/superhero_fx/beam_4] ([1] browsable assets)...
+[2023.09.29-22.08.33:243][433]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Maps/Assets_v1/superhero_fx/beam_4.beam_4]
+[2023.09.29-22.08.33:243][433]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Assets_v1/superhero_fx/beam_4]
+[2023.09.29-22.08.33:244][433]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Assets_v1/superhero_fx/beam_4_Auto4
+[2023.09.29-22.08.33:244][433]LogSavePackage: Moving 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/beam_4_Auto48F290D854D5376F56C8892B83530FBA1.tmp' to 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/Autosaves/Game/Maps/Assets_v1/superhero_fx/beam_4_Auto4.uasset'
+[2023.09.29-22.08.33:245][433]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Maps/Assets_v1/superhero_fx/beam_5] ([1] browsable assets)...
+[2023.09.29-22.08.33:246][433]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Maps/Assets_v1/superhero_fx/beam_5.beam_5]
+[2023.09.29-22.08.33:246][433]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Assets_v1/superhero_fx/beam_5]
+[2023.09.29-22.08.33:248][433]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Assets_v1/superhero_fx/beam_5_Auto4
+[2023.09.29-22.08.33:248][433]LogSavePackage: Moving 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/beam_5_Auto4F983C97F46D86C104D32799F259DC9C7.tmp' to 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/Autosaves/Game/Maps/Assets_v1/superhero_fx/beam_5_Auto4.uasset'
+[2023.09.29-22.08.33:249][433]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Maps/Assets_v1/superhero_fx/beam_6] ([1] browsable assets)...
+[2023.09.29-22.08.33:250][433]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Maps/Assets_v1/superhero_fx/beam_6.beam_6]
+[2023.09.29-22.08.33:250][433]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Assets_v1/superhero_fx/beam_6]
+[2023.09.29-22.08.33:251][433]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Assets_v1/superhero_fx/beam_6_Auto4
+[2023.09.29-22.08.33:252][433]LogSavePackage: Moving 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/beam_6_Auto4692EF4EC4430A9340C4928895B781184.tmp' to 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/Autosaves/Game/Maps/Assets_v1/superhero_fx/beam_6_Auto4.uasset'
+[2023.09.29-22.08.33:253][433]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Maps/Assets_v1/superhero_fx/beam_7] ([1] browsable assets)...
+[2023.09.29-22.08.33:254][433]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Maps/Assets_v1/superhero_fx/beam_7.beam_7]
+[2023.09.29-22.08.33:254][433]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Assets_v1/superhero_fx/beam_7]
+[2023.09.29-22.08.33:256][433]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Assets_v1/superhero_fx/beam_7_Auto4
+[2023.09.29-22.08.33:256][433]LogSavePackage: Moving 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/beam_7_Auto4DE8C2510453670242D5814806C265292.tmp' to 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/Autosaves/Game/Maps/Assets_v1/superhero_fx/beam_7_Auto4.uasset'
+[2023.09.29-22.08.33:257][433]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Maps/Assets_v1/superhero_fx/beam_8] ([1] browsable assets)...
+[2023.09.29-22.08.33:258][433]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Maps/Assets_v1/superhero_fx/beam_8.beam_8]
+[2023.09.29-22.08.33:258][433]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Assets_v1/superhero_fx/beam_8]
+[2023.09.29-22.08.33:259][433]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Assets_v1/superhero_fx/beam_8_Auto4
+[2023.09.29-22.08.33:260][433]LogSavePackage: Moving 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/beam_8_Auto43061A0304C0016D4C96A49BAE0C0ACB3.tmp' to 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/Autosaves/Game/Maps/Assets_v1/superhero_fx/beam_8_Auto4.uasset'
+[2023.09.29-22.08.33:261][433]LogFileHelpers: Auto-saving content packages took 0.032
+[2023.09.29-22.09.45:790][945]LogContentBrowser: Deferred new asset file creation: beam
+[2023.09.29-22.09.45:798][945]LogContentBrowser: Creating deferred item: beam
+[2023.09.29-22.09.45:817][946]LogContentBrowser: Renaming the item being created (Deferred Item: beam).
+[2023.09.29-22.10.05:107][256]LogContentBrowser: Attempting asset rename: beam -> beam_flip
+[2023.09.29-22.10.05:108][256]LogContentBrowser: End creating deferred item beam
+[2023.09.29-22.10.16:813][636]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Maps/Assets_v1/superhero_fx/beam_flip.beam_flip
+[2023.09.29-22.10.16:813][636]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.29-22.10.16:813][636]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.29-22.10.16:884][636]LogViewport: Scene viewport resized to 1526x791, mode Windowed.
+[2023.09.29-22.10.16:929][637]LogViewport: Scene viewport resized to 1526x774, mode Windowed.
+[2023.09.29-22.10.16:987][638]LogViewport: Scene viewport resized to 1526x761, mode Windowed.
+[2023.09.29-22.11.08:419][952]Cmd: TRANSACTION UNDO
+[2023.09.29-22.11.08:419][952]LogEditorTransaction: Undo Duplicate Keyframe
+[2023.09.29-22.11.08:963][970]Cmd: TRANSACTION UNDO
+[2023.09.29-22.11.08:963][970]LogEditorTransaction: Undo Duplicate Keyframe
+[2023.09.29-22.15.38:411][594]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.29-22.15.38:448][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Assets_v1/superhero_fx/beam_flip" FILE="C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Content/Maps/Assets_v1/superhero_fx/beam_flip.uasset" SILENT=true
+[2023.09.29-22.15.38:450][594]LogSavePackage: Moving output files for package: /Game/Maps/Assets_v1/superhero_fx/beam_flip
+[2023.09.29-22.15.38:450][594]LogSavePackage: Moving 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/beam_flip02B67C6542517DD898ACBCB86B950381.tmp' to 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Content/Maps/Assets_v1/superhero_fx/beam_flip.uasset'
+[2023.09.29-22.15.38:457][594]LogFileHelpers: InternalPromptForCheckoutAndSave took 46 ms (total: 204 ms)
+[2023.09.29-22.15.38:461][594]AssetCheck: New page: Asset Save: beam_flip
+[2023.09.29-22.15.38:461][594]LogContentValidation: Display: Validating /Script/Paper2D.PaperFlipbook /Game/Maps/Assets_v1/superhero_fx/beam_flip.beam_flip
+[2023.09.29-22.15.41:843][875]LogSlate: Window 'beam_flip' being destroyed
+[2023.09.29-22.15.41:848][875]LogSlate: Window 'beam_flip' being destroyed
+[2023.09.29-22.15.41:852][875]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.09.29-22.15.41:852][875]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.29-22.16.07:588][945]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/Maps/Assets_v1/superhero_fx/beam_flip.beam_flip
+[2023.09.29-22.16.07:588][945]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/Maps/Assets_v1/superhero_fx/beam_flip.beam_flip
+[2023.09.29-22.16.07:589][945]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/Maps/Assets_v1/superhero_fx/beam_flip.beam_flip as actor: PaperFlipbookActor /Game/Map1.Map1:PersistentLevel.PaperFlipbookActor_2
+[2023.09.29-22.16.07:589][945]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/Maps/Assets_v1/superhero_fx/beam_flip.beam_flip as actor: PaperFlipbookActor /Game/Map1.Map1:PersistentLevel.PaperFlipbookActor_2
+[2023.09.29-22.16.12:198][483]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/Maps/Assets_v1/superhero_fx/beam_flip.beam_flip
+[2023.09.29-22.16.12:198][483]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/Maps/Assets_v1/superhero_fx/beam_flip.beam_flip
+[2023.09.29-22.16.12:199][483]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/Maps/Assets_v1/superhero_fx/beam_flip.beam_flip as actor: PaperFlipbookActor /Game/Map1.Map1:PersistentLevel.PaperFlipbookActor_4
+[2023.09.29-22.16.12:199][483]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/Maps/Assets_v1/superhero_fx/beam_flip.beam_flip as actor: PaperFlipbookActor /Game/Map1.Map1:PersistentLevel.PaperFlipbookActor_4
+[2023.09.29-22.17.32:734][ 28]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.29-22.17.32:735][ 28]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.29-22.17.32:735][ 28]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.29-22.17.32:735][ 28]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.29-22.17.32:735][ 28]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.29-22.17.32:735][ 28]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.29-22.17.32:736][ 28]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.29-22.17.32:737][ 28]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.29-22.17.32:737][ 28]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.29-22.18.43:255][371]Cmd: TRANSACTION UNDO
+[2023.09.29-22.18.43:255][371]LogEditorTransaction: Undo Set Scale
+[2023.09.29-22.18.43:982][415]Cmd: TRANSACTION UNDO
+[2023.09.29-22.18.43:982][415]LogEditorTransaction: Undo Clicking on Elements
+[2023.09.29-22.19.31:171][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.09.29-22.19.31:174][978]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map1" FILE="C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/Autosaves/Game/Map1_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.09.29-22.19.31:178][978]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Map1_Auto5
+[2023.09.29-22.19.31:178][978]LogSavePackage: Moving 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/Map1_Auto5FD36B3BC4D91CFF04470C4B4BCCA43FE.tmp' to 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/Autosaves/Game/Map1_Auto5.umap'
+[2023.09.29-22.19.31:182][978]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map1' took 0.018
+[2023.09.29-22.19.31:182][978]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.018
+[2023.09.29-22.19.31:184][978]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/Assets_v1/bg/superhero_bg_tiles_a_FullDMG] ([1] browsable assets)...
+[2023.09.29-22.19.31:184][978]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Assets_v1/bg/superhero_bg_tiles_a_FullDMG]
+[2023.09.29-22.19.31:185][978]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Assets_v1/bg/superhero_bg_tiles_a_FullDMG_Auto5
+[2023.09.29-22.19.31:185][978]LogSavePackage: Moving 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/superhero_bg_tiles_a_FullDMG_AutC3988FBA4F9CE92E86AB5088BA4924D2.tmp' to 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/Autosaves/Game/Maps/Assets_v1/bg/superhero_bg_tiles_a_FullDMG_Auto5.uasset'
+[2023.09.29-22.19.31:186][978]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/Assets_v1/bg/superhero_bg_tiles_a_HiDMG] ([1] browsable assets)...
+[2023.09.29-22.19.31:186][978]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Assets_v1/bg/superhero_bg_tiles_a_HiDMG]
+[2023.09.29-22.19.31:187][978]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Assets_v1/bg/superhero_bg_tiles_a_HiDMG_Auto5
+[2023.09.29-22.19.31:188][978]LogSavePackage: Moving 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/superhero_bg_tiles_a_HiDMG_Auto568049C85455AA2A45D607AA25C069501.tmp' to 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/Autosaves/Game/Maps/Assets_v1/bg/superhero_bg_tiles_a_HiDMG_Auto5.uasset'
+[2023.09.29-22.19.31:189][978]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/Assets_v1/bg/superhero_bg_tiles_a_lowDMG] ([1] browsable assets)...
+[2023.09.29-22.19.31:189][978]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Assets_v1/bg/superhero_bg_tiles_a_lowDMG]
+[2023.09.29-22.19.31:190][978]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Assets_v1/bg/superhero_bg_tiles_a_lowDMG_Auto5
+[2023.09.29-22.19.31:190][978]LogSavePackage: Moving 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/superhero_bg_tiles_a_lowDMG_Auto11D238F040F24E23B1E514B35AF891B4.tmp' to 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/Autosaves/Game/Maps/Assets_v1/bg/superhero_bg_tiles_a_lowDMG_Auto5.uasset'
+[2023.09.29-22.19.31:192][978]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/Assets_v1/bg/superhero_bg_tiles_a_MedDMG] ([1] browsable assets)...
+[2023.09.29-22.19.31:192][978]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Assets_v1/bg/superhero_bg_tiles_a_MedDMG]
+[2023.09.29-22.19.31:193][978]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Assets_v1/bg/superhero_bg_tiles_a_MedDMG_Auto5
+[2023.09.29-22.19.31:193][978]LogSavePackage: Moving 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/superhero_bg_tiles_a_MedDMG_AutoE23A104344210FF83AD1A581E03EA2E6.tmp' to 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/Autosaves/Game/Maps/Assets_v1/bg/superhero_bg_tiles_a_MedDMG_Auto5.uasset'
+[2023.09.29-22.19.31:194][978]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/Assets_v1/superhero/superhero_shades_12_Sprite] ([1] browsable assets)...
+[2023.09.29-22.19.31:194][978]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Assets_v1/superhero/superhero_shades_12_Sprite]
+[2023.09.29-22.19.31:195][978]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Assets_v1/superhero/superhero_shades_12_Sprite_Auto5
+[2023.09.29-22.19.31:195][978]LogSavePackage: Moving 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/superhero_shades_12_Sprite_Auto5CCE7A93747FF1E6AB6610999EA34DD8C.tmp' to 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/Autosaves/Game/Maps/Assets_v1/superhero/superhero_shades_12_Sprite_Auto5.uasset'
+[2023.09.29-22.19.31:197][978]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/Assets_v1/superhero/superhero_shades_13_Sprite] ([1] browsable assets)...
+[2023.09.29-22.19.31:197][978]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Assets_v1/superhero/superhero_shades_13_Sprite]
+[2023.09.29-22.19.31:198][978]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Assets_v1/superhero/superhero_shades_13_Sprite_Auto5
+[2023.09.29-22.19.31:198][978]LogSavePackage: Moving 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/superhero_shades_13_Sprite_Auto52FA2C7934E5E6C7A77C06CB58E1F16F4.tmp' to 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/Autosaves/Game/Maps/Assets_v1/superhero/superhero_shades_13_Sprite_Auto5.uasset'
+[2023.09.29-22.19.31:199][978]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/Assets_v1/superhero/superhero_shades_14_Sprite] ([1] browsable assets)...
+[2023.09.29-22.19.31:199][978]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Assets_v1/superhero/superhero_shades_14_Sprite]
+[2023.09.29-22.19.31:200][978]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Assets_v1/superhero/superhero_shades_14_Sprite_Auto5
+[2023.09.29-22.19.31:200][978]LogSavePackage: Moving 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/superhero_shades_14_Sprite_Auto59FCB897F4DCB34D593A272B8F2D62F06.tmp' to 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/Autosaves/Game/Maps/Assets_v1/superhero/superhero_shades_14_Sprite_Auto5.uasset'
+[2023.09.29-22.19.31:201][978]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/Assets_v1/superhero/superhero_shades_15_Sprite] ([1] browsable assets)...
+[2023.09.29-22.19.31:201][978]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Assets_v1/superhero/superhero_shades_15_Sprite]
+[2023.09.29-22.19.31:203][978]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Assets_v1/superhero/superhero_shades_15_Sprite_Auto5
+[2023.09.29-22.19.31:203][978]LogSavePackage: Moving 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/superhero_shades_15_Sprite_Auto5DF2D8482418B936C39C4549DD83F94D5.tmp' to 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/Autosaves/Game/Maps/Assets_v1/superhero/superhero_shades_15_Sprite_Auto5.uasset'
+[2023.09.29-22.19.31:204][978]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/Assets_v1/superhero_fx/beam_1] ([1] browsable assets)...
+[2023.09.29-22.19.31:204][978]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Assets_v1/superhero_fx/beam_1]
+[2023.09.29-22.19.31:205][978]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Assets_v1/superhero_fx/beam_1_Auto5
+[2023.09.29-22.19.31:205][978]LogSavePackage: Moving 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/beam_1_Auto57026AFEC4EC559C68F70C784652CE0EB.tmp' to 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/Autosaves/Game/Maps/Assets_v1/superhero_fx/beam_1_Auto5.uasset'
+[2023.09.29-22.19.31:206][978]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/Assets_v1/superhero_fx/beam_2] ([1] browsable assets)...
+[2023.09.29-22.19.31:206][978]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Assets_v1/superhero_fx/beam_2]
+[2023.09.29-22.19.31:208][978]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Assets_v1/superhero_fx/beam_2_Auto5
+[2023.09.29-22.19.31:208][978]LogSavePackage: Moving 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/beam_2_Auto5867886364221B91ECD1F5CB8B2743FF7.tmp' to 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/Autosaves/Game/Maps/Assets_v1/superhero_fx/beam_2_Auto5.uasset'
+[2023.09.29-22.19.31:209][978]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/Assets_v1/superhero_fx/beam_3] ([1] browsable assets)...
+[2023.09.29-22.19.31:209][978]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Assets_v1/superhero_fx/beam_3]
+[2023.09.29-22.19.31:211][978]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Assets_v1/superhero_fx/beam_3_Auto5
+[2023.09.29-22.19.31:211][978]LogSavePackage: Moving 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/beam_3_Auto5BFBA80B64EE24F64B6CBF19F740C0EF6.tmp' to 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/Autosaves/Game/Maps/Assets_v1/superhero_fx/beam_3_Auto5.uasset'
+[2023.09.29-22.19.31:212][978]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/Assets_v1/superhero_fx/beam_4] ([1] browsable assets)...
+[2023.09.29-22.19.31:212][978]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Assets_v1/superhero_fx/beam_4]
+[2023.09.29-22.19.31:213][978]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Assets_v1/superhero_fx/beam_4_Auto5
+[2023.09.29-22.19.31:213][978]LogSavePackage: Moving 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/beam_4_Auto5BAE0B596403C5F06EA77F7A0B063CDBC.tmp' to 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/Autosaves/Game/Maps/Assets_v1/superhero_fx/beam_4_Auto5.uasset'
+[2023.09.29-22.19.31:214][978]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/Assets_v1/superhero_fx/beam_5] ([1] browsable assets)...
+[2023.09.29-22.19.31:214][978]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Assets_v1/superhero_fx/beam_5]
+[2023.09.29-22.19.31:215][978]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Assets_v1/superhero_fx/beam_5_Auto5
+[2023.09.29-22.19.31:215][978]LogSavePackage: Moving 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/beam_5_Auto5AB14071348BEA641EE8931996A0C679E.tmp' to 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/Autosaves/Game/Maps/Assets_v1/superhero_fx/beam_5_Auto5.uasset'
+[2023.09.29-22.19.31:216][978]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/Assets_v1/superhero_fx/beam_6] ([1] browsable assets)...
+[2023.09.29-22.19.31:216][978]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Assets_v1/superhero_fx/beam_6]
+[2023.09.29-22.19.31:219][978]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Assets_v1/superhero_fx/beam_6_Auto5
+[2023.09.29-22.19.31:219][978]LogSavePackage: Moving 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/beam_6_Auto539EA775B40D72D65FD1594A9FD17BE6F.tmp' to 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/Autosaves/Game/Maps/Assets_v1/superhero_fx/beam_6_Auto5.uasset'
+[2023.09.29-22.19.31:220][978]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/Assets_v1/superhero_fx/beam_7] ([1] browsable assets)...
+[2023.09.29-22.19.31:220][978]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Assets_v1/superhero_fx/beam_7]
+[2023.09.29-22.19.31:221][978]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Assets_v1/superhero_fx/beam_7_Auto5
+[2023.09.29-22.19.31:221][978]LogSavePackage: Moving 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/beam_7_Auto526F44FA742CDC21BFD7C8C9C4022D053.tmp' to 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/Autosaves/Game/Maps/Assets_v1/superhero_fx/beam_7_Auto5.uasset'
+[2023.09.29-22.19.31:222][978]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/Assets_v1/superhero_fx/beam_8] ([1] browsable assets)...
+[2023.09.29-22.19.31:222][978]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Assets_v1/superhero_fx/beam_8]
+[2023.09.29-22.19.31:224][978]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Assets_v1/superhero_fx/beam_8_Auto5
+[2023.09.29-22.19.31:224][978]LogSavePackage: Moving 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/beam_8_Auto5CB31BE8A4033527BC7EA98B6AB251440.tmp' to 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/Autosaves/Game/Maps/Assets_v1/superhero_fx/beam_8_Auto5.uasset'
+[2023.09.29-22.19.31:225][978]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Maps/Assets_v1/superhero_fx/beam_1_Sprite] ([1] browsable assets)...
+[2023.09.29-22.19.31:226][978]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Maps/Assets_v1/superhero_fx/beam_1_Sprite.beam_1_Sprite]
+[2023.09.29-22.19.31:226][978]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Assets_v1/superhero_fx/beam_1_Sprite]
+[2023.09.29-22.19.31:228][978]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Assets_v1/superhero_fx/beam_1_Sprite_Auto5
+[2023.09.29-22.19.31:228][978]LogSavePackage: Moving 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/beam_1_Sprite_Auto5598A424B4F888E0F9848ECA9952EC48E.tmp' to 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/Autosaves/Game/Maps/Assets_v1/superhero_fx/beam_1_Sprite_Auto5.uasset'
+[2023.09.29-22.19.31:230][978]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Maps/Assets_v1/superhero_fx/beam_2_Sprite] ([1] browsable assets)...
+[2023.09.29-22.19.31:231][978]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Maps/Assets_v1/superhero_fx/beam_2_Sprite.beam_2_Sprite]
+[2023.09.29-22.19.31:231][978]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Assets_v1/superhero_fx/beam_2_Sprite]
+[2023.09.29-22.19.31:233][978]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Assets_v1/superhero_fx/beam_2_Sprite_Auto5
+[2023.09.29-22.19.31:233][978]LogSavePackage: Moving 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/beam_2_Sprite_Auto5FDAC8503427DEA1B27193E9D114FF2DF.tmp' to 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/Autosaves/Game/Maps/Assets_v1/superhero_fx/beam_2_Sprite_Auto5.uasset'
+[2023.09.29-22.19.31:234][978]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Maps/Assets_v1/superhero_fx/beam_3_Sprite] ([1] browsable assets)...
+[2023.09.29-22.19.31:235][978]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Maps/Assets_v1/superhero_fx/beam_3_Sprite.beam_3_Sprite]
+[2023.09.29-22.19.31:235][978]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Assets_v1/superhero_fx/beam_3_Sprite]
+[2023.09.29-22.19.31:237][978]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Assets_v1/superhero_fx/beam_3_Sprite_Auto5
+[2023.09.29-22.19.31:237][978]LogSavePackage: Moving 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/beam_3_Sprite_Auto53890D4DB42FDCD0F56A10E891AC37E12.tmp' to 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/Autosaves/Game/Maps/Assets_v1/superhero_fx/beam_3_Sprite_Auto5.uasset'
+[2023.09.29-22.19.31:238][978]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Maps/Assets_v1/superhero_fx/beam_4_Sprite] ([1] browsable assets)...
+[2023.09.29-22.19.31:240][978]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Maps/Assets_v1/superhero_fx/beam_4_Sprite.beam_4_Sprite]
+[2023.09.29-22.19.31:240][978]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Assets_v1/superhero_fx/beam_4_Sprite]
+[2023.09.29-22.19.31:242][978]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Assets_v1/superhero_fx/beam_4_Sprite_Auto5
+[2023.09.29-22.19.31:242][978]LogSavePackage: Moving 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/beam_4_Sprite_Auto5528362694DAE91C902F1BF9D3DCE1C75.tmp' to 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/Autosaves/Game/Maps/Assets_v1/superhero_fx/beam_4_Sprite_Auto5.uasset'
+[2023.09.29-22.19.31:243][978]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Maps/Assets_v1/superhero_fx/beam_5_Sprite] ([1] browsable assets)...
+[2023.09.29-22.19.31:244][978]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Maps/Assets_v1/superhero_fx/beam_5_Sprite.beam_5_Sprite]
+[2023.09.29-22.19.31:244][978]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Assets_v1/superhero_fx/beam_5_Sprite]
+[2023.09.29-22.19.31:247][978]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Assets_v1/superhero_fx/beam_5_Sprite_Auto5
+[2023.09.29-22.19.31:247][978]LogSavePackage: Moving 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/beam_5_Sprite_Auto5BBF3050A4AC71E49C6DEE6901B0CFFDF.tmp' to 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/Autosaves/Game/Maps/Assets_v1/superhero_fx/beam_5_Sprite_Auto5.uasset'
+[2023.09.29-22.19.31:248][978]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Maps/Assets_v1/superhero_fx/beam_6_Sprite] ([1] browsable assets)...
+[2023.09.29-22.19.31:249][978]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Maps/Assets_v1/superhero_fx/beam_6_Sprite.beam_6_Sprite]
+[2023.09.29-22.19.31:249][978]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Assets_v1/superhero_fx/beam_6_Sprite]
+[2023.09.29-22.19.31:251][978]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Assets_v1/superhero_fx/beam_6_Sprite_Auto5
+[2023.09.29-22.19.31:251][978]LogSavePackage: Moving 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/beam_6_Sprite_Auto5BE4639D7486BC99E919176BA62EEA9A9.tmp' to 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/Autosaves/Game/Maps/Assets_v1/superhero_fx/beam_6_Sprite_Auto5.uasset'
+[2023.09.29-22.19.31:252][978]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Maps/Assets_v1/superhero_fx/beam_7_Sprite] ([1] browsable assets)...
+[2023.09.29-22.19.31:253][978]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Maps/Assets_v1/superhero_fx/beam_7_Sprite.beam_7_Sprite]
+[2023.09.29-22.19.31:253][978]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Assets_v1/superhero_fx/beam_7_Sprite]
+[2023.09.29-22.19.31:255][978]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Assets_v1/superhero_fx/beam_7_Sprite_Auto5
+[2023.09.29-22.19.31:255][978]LogSavePackage: Moving 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/beam_7_Sprite_Auto5734579BE4949AB43D733FF8D754C8C92.tmp' to 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/Autosaves/Game/Maps/Assets_v1/superhero_fx/beam_7_Sprite_Auto5.uasset'
+[2023.09.29-22.19.31:256][978]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Maps/Assets_v1/superhero_fx/beam_8_Sprite] ([1] browsable assets)...
+[2023.09.29-22.19.31:258][978]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Maps/Assets_v1/superhero_fx/beam_8_Sprite.beam_8_Sprite]
+[2023.09.29-22.19.31:258][978]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Assets_v1/superhero_fx/beam_8_Sprite]
+[2023.09.29-22.19.31:260][978]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Assets_v1/superhero_fx/beam_8_Sprite_Auto5
+[2023.09.29-22.19.31:260][978]LogSavePackage: Moving 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/beam_8_Sprite_Auto56E1F399B44C059A0314E0498F0834249.tmp' to 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/Autosaves/Game/Maps/Assets_v1/superhero_fx/beam_8_Sprite_Auto5.uasset'
+[2023.09.29-22.19.31:261][978]LogFileHelpers: Auto-saving content packages took 0.078
+[2023.09.29-22.23.19:389][318]Cmd: DELETE
+[2023.09.29-22.23.19:389][318]Cmd: ACTOR DELETE
+[2023.09.29-22.23.19:390][318]LogEditorActor: Deleted Actor: PaperFlipbookActor
+[2023.09.29-22.23.19:397][318]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.09.29-22.23.19:400][318]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2023.09.29-22.23.25:251][ 16]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Maps/Assets_v1/superhero_fx/beam_flip.beam_flip
+[2023.09.29-22.23.25:252][ 16]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.29-22.23.25:252][ 16]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.29-22.23.25:331][ 16]LogViewport: Scene viewport resized to 1526x787, mode Windowed.
+[2023.09.29-22.23.25:377][ 17]LogViewport: Scene viewport resized to 1526x770, mode Windowed.
+[2023.09.29-22.23.25:422][ 18]LogViewport: Scene viewport resized to 1526x761, mode Windowed.
+[2023.09.29-22.23.37:523][240]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.29-22.23.37:556][240]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Assets_v1/superhero_fx/beam_flip" FILE="C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Content/Maps/Assets_v1/superhero_fx/beam_flip.uasset" SILENT=true
+[2023.09.29-22.23.37:557][240]LogSavePackage: Moving output files for package: /Game/Maps/Assets_v1/superhero_fx/beam_flip
+[2023.09.29-22.23.37:558][240]LogSavePackage: Moving 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Saved/beam_flip7ED733724028F29133C99680A3D50DC8.tmp' to 'C:/Users/kevin/freshersJam/freshersJam/GGJ 5.2/Content/Maps/Assets_v1/superhero_fx/beam_flip.uasset'
+[2023.09.29-22.23.37:564][240]LogFileHelpers: InternalPromptForCheckoutAndSave took 40 ms (total: 245 ms)
+[2023.09.29-22.23.37:568][240]AssetCheck: New page: Asset Save: beam_flip
+[2023.09.29-22.23.37:568][240]LogContentValidation: Display: Validating /Script/Paper2D.PaperFlipbook /Game/Maps/Assets_v1/superhero_fx/beam_flip.beam_flip
+[2023.09.29-22.23.41:629][648]LogSlate: Window 'beam_flip' being destroyed
+[2023.09.29-22.23.41:634][648]LogSlate: Window 'beam_flip' being destroyed
+[2023.09.29-22.23.41:638][648]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.09.29-22.23.41:638][648]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.29-22.23.44:820][ 21]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/Maps/Assets_v1/superhero_fx/beam_flip.beam_flip
+[2023.09.29-22.23.44:820][ 21]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/Maps/Assets_v1/superhero_fx/beam_flip.beam_flip
+[2023.09.29-22.23.44:820][ 21]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/Maps/Assets_v1/superhero_fx/beam_flip.beam_flip as actor: PaperFlipbookActor /Game/Map1.Map1:PersistentLevel.PaperFlipbookActor_5
+[2023.09.29-22.23.44:821][ 21]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/Maps/Assets_v1/superhero_fx/beam_flip.beam_flip as actor: PaperFlipbookActor /Game/Map1.Map1:PersistentLevel.PaperFlipbookActor_5
+[2023.09.29-22.23.48:282][432]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/Maps/Assets_v1/superhero_fx/beam_flip.beam_flip
+[2023.09.29-22.23.48:282][432]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/Maps/Assets_v1/superhero_fx/beam_flip.beam_flip
+[2023.09.29-22.23.48:283][432]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/Maps/Assets_v1/superhero_fx/beam_flip.beam_flip as actor: PaperFlipbookActor /Game/Map1.Map1:PersistentLevel.PaperFlipbookActor_6
+[2023.09.29-22.23.48:283][432]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/Maps/Assets_v1/superhero_fx/beam_flip.beam_flip as actor: PaperFlipbookActor /Game/Map1.Map1:PersistentLevel.PaperFlipbookActor_6
+[2023.09.29-22.24.07:453][694]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.29-22.24.07:453][694]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.29-22.24.07:454][694]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.29-22.24.07:454][694]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.29-22.24.07:454][694]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.29-22.24.07:455][694]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.29-22.24.07:455][694]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.29-22.24.07:455][694]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.29-22.24.07:456][694]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.29-22.26.19:973][371]Cmd: TRANSACTION UNDO
+[2023.09.29-22.26.19:973][371]LogEditorTransaction: Undo Set Scale
+[2023.09.29-22.26.22:166][591]Cmd: TRANSACTION UNDO
+[2023.09.29-22.26.22:166][591]LogEditorTransaction: Undo Clicking on Elements
+[2023.09.29-22.26.22:956][682]Cmd: TRANSACTION UNDO
+[2023.09.29-22.26.22:957][682]LogEditorTransaction: Undo Clicking on Elements
+[2023.09.29-22.26.24:197][826]Cmd: TRANSACTION UNDO
+[2023.09.29-22.26.24:197][826]LogEditorTransaction: Undo Clicking on Elements
+[2023.09.29-22.26.25:374][924]Cmd: TRANSACTION UNDO
+[2023.09.29-22.26.25:374][924]LogEditorTransaction: Undo Move Elements
+[2023.09.29-22.26.27:318][156]Cmd: TRANSACTION UNDO
+[2023.09.29-22.26.27:318][156]LogEditorTransaction: Undo Set Scale
